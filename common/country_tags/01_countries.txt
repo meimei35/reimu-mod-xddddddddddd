@@ -1,2 +1,2 @@
 KOS	= "countries/Kosovo.txt"
-GEN     = "countries/Gensokyo.txt"
+GEN = "countries/Gensokyo.txt"
