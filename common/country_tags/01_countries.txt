@@ -1,2 +1,3 @@
 KOS	= "countries/Kosovo.txt"
 GEN = "countries/Gensokyo.txt"
+ENK = "countries/Enkaishu.txt"
