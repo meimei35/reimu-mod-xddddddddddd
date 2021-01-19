@@ -1,2 +1,2 @@
 # reimu-mod-xddddddddddd
-Gensokuyo in Hoi4
+gensokyo in Hoi4
