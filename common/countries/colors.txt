@@ -1,3 +1,4 @@
+
 #reload countrycolors
 
 GER = {
@@ -182,8 +183,8 @@ IRQ = {
 	color_ui = rgb { 231 148 129 }
 }
 JAP = {
-	color = rgb { 130 19 46 }
-	color_ui = rgb { 130 19 46 }
+	color = rgb { 153 109 112 }
+	color_ui = rgb { 153 109 112 }
 }
 LIB = {
 	color = rgb { 152 130 191 }
